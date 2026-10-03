@@ -226,9 +226,6 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  int hour = 15;
-  int minute = 8;
-  int second = 50;
   while (1)
   {
     /* USER CODE END WHILE */
